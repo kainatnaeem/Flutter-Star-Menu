@@ -1,5 +1,9 @@
 # flutter_star_menu
 
+
+https://github.com/kainatnaeem/Flutter-Star-Menu/assets/54583829/1044919e-5018-469e-98da-6f960335eb48
+
+
 A new Flutter project.
 
 ## Getting Started
